@@ -1,8 +1,6 @@
 # Hardcore Mario Bros (Aug 24, 2024)
 A remake of the first level of Super Mario Bros., reimagined with a much higher difficulty.
 
----
-
 ## The Mechanics
 This game reuses the core mechanics of the original Super Mario Bros.
 
@@ -13,8 +11,6 @@ This game reuses the core mechanics of the original Super Mario Bros.
 | **Take Power-up** | **Collect Coins** | **Enter Pipe** |
 | :---: | :---: | :---: |
 | <img src="Assets/Images/take_powerup.gif" width="300"> | <img src="Assets/Images/collect_coins.gif" width="300"> | <img src="Assets/Images/enter_pipe.gif" width="300"> |
-
----
 
 ## New Levels
 In addition to a tougher version of World 1-1, I designed four brand-new, deliberately difficult (and somewhat unfair!) levels designed to test players' patience. I also custom-redesigned the textures to give the game a darker, more menacing atmosphere.
@@ -27,13 +23,9 @@ In addition to a tougher version of World 1-1, I designed four brand-new, delibe
 | :---: | :---: |
 | <img src="Assets/Images/new_level3.gif" width="300"> | <img src="Assets/Images/new_level4.gif" width="300"> <img src="Assets/Images/bowser.gif" width="300"> |
 
----
-
 ## Watch the Video
 You can watch a devlog/video I made about it (in French):
 [Watch on YouTube](https://youtu.be/jfwfdiMI0x0?si=C0vmMd9m9qwuveVF)
-
----
 
 ## Play
 You can play the game directly on [`itch.io`](https://remaf300.itch.io/hardcoremariobros) (play at your own risk!).
