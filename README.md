@@ -18,13 +18,16 @@ This game reuse the same mechanics as in Super Mario Bros.
 ## New Levels
 I remade the first level but there are four more levels. These levels are harder and unfair so it can be really frustrating. I also changed the textures of the base game because why not? So now it looks dark and scary.
 
-<img src="Assets/Images/new_level1.gif" width="300">
+| **1. Raining level** | **2. Sky Level** |
+| :---: | :---: |
+| <img src="Assets/Images/new_level1.gif" width="300"> | <img src="Assets/Images/new_level2.gif" width="300"> |
 
-### 1. Raining level
+| **3. Cave Level** | **4. Castle Level** |
+| :---: | :---: |
+| <img src="Assets/Images/new_level3.gif" width="300"> | <img src="Assets/Images/new_level4.gif" width="300"> |
 
-### 2. Music Level
-Inspired by the musical levels in *Rayman Legends*. You must run through the level while your actions and jumps are synchronized with the background music.
-
+Also, Bowser is too strong:
+<img src="Assets/Images/bowser.gif" width="300"> 
 
 ---
 
@@ -35,3 +38,6 @@ You can watch a [`devlog/video`](https://youtu.be/jfwfdiMI0x0?si=C0vmMd9m9qwuveV
 
 ## Play
 You can play the game directly on [`itch.io`](https://remaf300.itch.io/hardcoremariobros).
+
+## Credit
+This game was made thanks to this [`video`](https://www.youtube.com/watch?v=GCkq6XqyJZg).
