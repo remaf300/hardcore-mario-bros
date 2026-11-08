@@ -24,10 +24,7 @@ I remade the first level but there are four more levels. These levels are harder
 
 | **3. Cave Level** | **4. Castle Level** |
 | :---: | :---: |
-| <img src="Assets/Images/new_level3.gif" width="300"> | <img src="Assets/Images/new_level4.gif" width="300"> |
-
-Also, Bowser is too strong:
-<img src="Assets/Images/bowser.gif" width="300"> 
+| <img src="Assets/Images/new_level3.gif" width="300"> | <img src="Assets/Images/new_level4.gif" width="300"> <img src="Assets/Images/bowser.gif" width="300"> |
 
 ---
 
